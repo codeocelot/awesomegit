@@ -2,4 +2,4 @@ my first line in git
 
 another edit
 
-first feature work
+second feature
